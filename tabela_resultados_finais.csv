@@ -1,12 +1,2 @@
-Campo,Valor
-best_epoch,94
-best_validation_loss,0.1675576740367846
-final_training_loss,0.1735108301720836
-final_validation_loss,0.16922775825316255
-SNR,14.528200869684015
-STOI,0.9196352312433627
-PESQ,2.294654967060222
-loss_improvement,"{'training': 42.42643884449554, 'validation': 28.781830494246574}"
-snr_improvement,"{'training': 97.54692333383008, 'validation': 21.10261776165051}"
-stoi_improvement,"{'training': 5.4673542407877855, 'validation': 3.7001635044425543}"
-pesq_improvement,"{'training': 63.269035442108, 'validation': 38.3649777948205}"
+,best_epoch,best_validation_loss,final_training_loss,final_validation_loss,SNR,STOI,PESQ,loss_improvement.training,loss_improvement.validation,snr_improvement.training,snr_improvement.validation,stoi_improvement.training,stoi_improvement.validation,pesq_improvement.training,pesq_improvement.validation
+0,94,0.1675576740367846,0.1735108301720836,0.16922775825316255,14.528200869684015,0.9196352312433627,2.294654967060222,42.42643884449554,28.781830494246574,97.54692333383008,21.10261776165051,5.4673542407877855,3.7001635044425543,63.269035442108,38.3649777948205

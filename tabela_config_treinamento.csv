@@ -1,9 +1,2 @@
-Campo,Valor
-num_epochs,100
-batch_size,32
-learning_rate,0.001
-device,cuda
-sample_rate,16000
-segment_length,32000
-n_fft,512
-hop_length,128
+,num_epochs,batch_size,learning_rate,device,sample_rate,segment_length,n_fft,hop_length
+0,100,32,0.001,cuda,16000,32000,512,128
