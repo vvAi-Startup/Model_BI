@@ -1,0 +1,12 @@
+Campo,Valor
+timestamp,2025-08-14T00:52:48.570065
+model_name,UNetDenoiser
+task,Audio Denoising
+framework,PyTorch
+total_parameters,2052561
+architecture,UNet
+input_channels,1
+output_channels,1
+encoder_layers,4
+decoder_layers,4
+bottleneck_features,256

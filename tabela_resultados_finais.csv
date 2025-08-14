@@ -1,0 +1,12 @@
+Campo,Valor
+best_epoch,94
+best_validation_loss,0.1675576740367846
+final_training_loss,0.1735108301720836
+final_validation_loss,0.16922775825316255
+SNR,14.528200869684015
+STOI,0.9196352312433627
+PESQ,2.294654967060222
+loss_improvement,"{'training': 42.42643884449554, 'validation': 28.781830494246574}"
+snr_improvement,"{'training': 97.54692333383008, 'validation': 21.10261776165051}"
+stoi_improvement,"{'training': 5.4673542407877855, 'validation': 3.7001635044425543}"
+pesq_improvement,"{'training': 63.269035442108, 'validation': 38.3649777948205}"

@@ -1,0 +1,9 @@
+Campo,Valor
+train_samples,2815
+validation_samples,675
+test_samples,862
+total_samples,4352
+sample_rate,16000
+segment_length,32000
+clean_directory,dados/voz_limpa
+noisy_directory,dados/ruidos

@@ -1,0 +1,9 @@
+Campo,Valor
+num_epochs,100
+batch_size,32
+learning_rate,0.001
+device,cuda
+sample_rate,16000
+segment_length,32000
+n_fft,512
+hop_length,128
