@@ -1,0 +1,2 @@
+|timestamp|model_name|task|framework|total_parameters|architecture|input_channels|output_channels|encoder_layers|decoder_layers|bottleneck_features
+0|2025-08-14T00:52:48.570065|UNetDenoiser|Audio Denoising|PyTorch|2052561|UNet|1|1|4|4|256

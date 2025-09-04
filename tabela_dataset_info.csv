@@ -1,2 +1,2 @@
-,train_samples,validation_samples,test_samples,total_samples,sample_rate,segment_length,clean_directory,noisy_directory
-0,2815,675,862,4352,16000,32000,dados/voz_limpa,dados/ruidos
+|train_samples|validation_samples|test_samples|total_samples|sample_rate|segment_length|clean_directory|noisy_directory
+0|2815|675|862|4352|16000|32000|dados/voz_limpa|dados/ruidos
